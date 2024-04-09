@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunfeng2003/my-npm-project.git"
+    "url": "https://github.com/yunfeng2003/node-openssl.git"
   },
   "npm": {
       "publish": false,
