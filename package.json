@@ -11,7 +11,11 @@
     "type": "git",
     "url": "https://github.com/yunfeng2003/my-npm-project.git"
   },
-    "contributors": [
+  "npm": {
+      "publish": false,
+      "ignoreVersion": false
+    },  
+  "contributors": [
     "Yunfeng Wang (https://github.com/yunfeng2003)"
   ],
   "keywords": [],
