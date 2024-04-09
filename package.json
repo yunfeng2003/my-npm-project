@@ -1,7 +1,7 @@
 {
-  "name": "node-openssl",
-  "version": "1.0.0",
-  "description": "",
+  "name": "yunfeng2003-node-openssl",
+  "version": "1.0.3",
+  "description": "yunfeng2003-node-openssl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yunfeng2003/node-openssl.git"
+    "url": "git+https://github.com/yunfeng2003/node-openssl.git"
   },
   "npm": {
-      "publish": false,
-      "ignoreVersion": false
-    },  
+    "publish": false,
+    "ignoreVersion": false
+  },
   "contributors": [
     "Yunfeng Wang (https://github.com/yunfeng2003)"
   ],
@@ -23,5 +23,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/yunfeng2003/node-openssl/issues"
+  },
+  "homepage": "https://github.com/yunfeng2003/node-openssl#readme",
+  "devDependencies": {}
 }
