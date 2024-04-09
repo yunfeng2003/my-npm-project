@@ -22,7 +22,6 @@
   "author": "yunfeng2003",
   "license": "ISC",
   "dependencies": {
-    "block-master": "*",
     "express": "^4.19.2"
   }
 }
